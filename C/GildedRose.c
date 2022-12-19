@@ -91,7 +91,7 @@ update_quality(Item items[], int size)
                 if (items[i].quality < 50)
                 {
                     items[i].quality = items[i].quality + 1;
-                }
+                } 
             }
         }
     }
